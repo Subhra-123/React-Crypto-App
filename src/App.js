@@ -7,7 +7,7 @@ import {
   Homepage,
   Cryptocurrencies,
   CryptoDetails,
-  Exchanges,
+  
   News,
 } from "./components";
 import "./App.css";
